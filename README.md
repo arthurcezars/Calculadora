@@ -9,5 +9,5 @@ Uma calculadora desenvolvida com HTML, CSS e javascript.
 * Javascript  
   
 <div allign="center">
-    <img src="" width="700px">
+    <img src="https://github.com/arthurcezars/Calculadora/blob/master/assets/img/Calculadora.png" width="700px">
 </div>
